@@ -4,7 +4,11 @@ Unity test project "Cheeki-Breeki"
 
 This project depends of [Web API](https://github.com/Hunthard/cheeki-breeki-webapi)
 
-## Startup Guide:
+## Depencies
+
+* Unity 2019.3.3f1
+
+## Startup Guide
 
 1. Follow instalation guide from [this](https://github.com/Hunthard/cheeki-breeki-webapi) repo
 2. Download and build this project
